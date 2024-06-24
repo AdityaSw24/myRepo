@@ -4,8 +4,10 @@
 
 export const environment = {
   production: false,
-  url:"http://localhost:8080/CMS"
+  //url:"http://localhost:8080/CMS"
+  url:"http://admission.dei.ac.in:8086/CMS"
 };
+
 
 /*
  * For easier debugging in development mode, you can import the following file
